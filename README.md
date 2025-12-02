@@ -1,5 +1,6 @@
 
-![Uploading media-query-12-02-2025_04_28_PM.png…]()
+ <img width="1920" height="1863" alt="media-query-12-02-2025_04_28_PM" src="https://github.com/user-attachments/assets/471364ee-74c8-4011-9113-1974ea062659" />
+
 
 
 📱 Responsive Webpage Using Media Queries
