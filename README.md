@@ -1,5 +1,6 @@
 
-chrome-extension://nlipoenfbbikpbjkfpfillcgkoblgpmj/edit-react.html
+![Uploading media-query-12-02-2025_04_28_PM.png…]()
+
 
 📱 Responsive Webpage Using Media Queries
 
