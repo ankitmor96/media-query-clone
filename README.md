@@ -3,8 +3,6 @@
 
 github url:https://github.com/ankitmor96/media-query-clone
 
-netlify url:eclectic-crostata-d17c08.netlify.app
-
 
 🚀 Project Overview
 
